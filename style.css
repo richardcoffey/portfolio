@@ -1,0 +1,43 @@
+#summary {
+  padding: 20px 40px;
+  background:	#696969;
+  border-radius: 60px;
+  font-size: 15px;
+  font-family: Arial;
+  font-weight: bold;
+}
+
+#header h1 {
+  font-size: 50px;
+  font-family: Arial;
+  font-weight: bold;
+}
+
+#header h3 {
+  font-family: sans-serif;
+  font-weight: bolder;
+}
+
+#header {
+  padding: 20px 40px;
+  background: #000080; 
+  border-radius: 150px;
+
+}
+
+#wrapper {
+  margin: 0 auto;
+  max-width: 750px;
+}
+
+#social {
+  text-align: center;
+}
+
+#header2 {
+  text-align: left;
+}
+
+#summary img {
+  text-align: center;
+}
